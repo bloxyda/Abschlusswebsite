@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
-import Index from './components/sites'
+import Index from './components/sites/Index'
 import Cart from './components/sites/Cart'
 import { useState } from 'react'
 
