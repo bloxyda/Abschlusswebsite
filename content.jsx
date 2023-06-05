@@ -12,7 +12,7 @@ const content =  {
         ],
 
         navImg: {
-            url: "/Abschlusswebsite/mani/logo.png",
+            url: "/Abschlusswebsite/logo.png",
             alt: "Bitte alt text hier"
         },
 
