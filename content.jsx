@@ -12,7 +12,7 @@ const content =  {
         ],
 
         navImg: {
-            url: "/mani/mani/logo.png",
+            url: "/Abschlusswebsite/mani/logo.png",
             alt: "Bitte alt text hier"
         },
 
@@ -41,18 +41,18 @@ const content =  {
 
     slideshow: [
         {
-            url: "/mani/minecraft_slideshow.png",
+            url: "/Abschlusswebsite/minecraft_slideshow.png",
             text: "Minecraft",
             alt: "Minecraft Banner"
         },
         {
-            url: "/mani/fortnite_slideshow.png",
+            url: "/Abschlusswebsite/fortnite_slideshow.png",
             text: "Fortnite",
             alt: "Fortnite Banner"
         },
         {
             video: true,
-            url: "/mani/GTA_6_Trailer.mp4",
+            url: "/Abschlusswebsite/GTA_6_Trailer.mp4",
             text: "GTA 6",
             alt: "GTA 6 Video"
         },
@@ -121,7 +121,7 @@ const content =  {
     games: [
         {
             name: "Minecraft",
-            imageUrl: "/mani/minecraft_buy.png",
+            imageUrl: "/Abschlusswebsite/minecraft_buy.png",
             alt: "Minecraft Picture",
             type: "bestseller",
             id: 1,
@@ -129,7 +129,7 @@ const content =  {
         },
         {
             name: "Fortnite",
-            imageUrl: "/mani/fortnite_buy.png",
+            imageUrl: "/Abschlusswebsite/fortnite_buy.png",
             alt: "Fortnite Picture",
             type: "bestseller",
             id: 2,
@@ -137,7 +137,7 @@ const content =  {
         },
         {
             name: "GTA 5",
-            imageUrl: "/mani/GTA_buy.png",
+            imageUrl: "/Abschlusswebsite/GTA_buy.png",
             alt: "GTA 5 Picture",
             type: "bestseller",
             id: 3,
@@ -145,7 +145,7 @@ const content =  {
         },
         {
             name: "PUBG",
-            imageUrl: "/mani/PUBG_buy.png",
+            imageUrl: "/Abschlusswebsite/PUBG_buy.png",
             alt: "Alt Text Here",
             type: "bestseller",
             id: 4,
@@ -153,7 +153,7 @@ const content =  {
         },
         {
             name: "Diablo IV",
-            imageUrl: "/mani/diablo_4_buy.png",
+            imageUrl: "/Abschlusswebsite/diablo_4_buy.png",
             alt: "Diablo IV Picture",
             type: "new-games",
             id: 5,
@@ -161,7 +161,7 @@ const content =  {
         },
         {
             name: "The Legend of Zelda: Tears of the Kingdom",
-            imageUrl: "/mani/TLOZ_TOTK_buy.png",
+            imageUrl: "/Abschlusswebsite/TLOZ_TOTK_buy.png",
             alt: "The Legend of Zelda: Tears of the Kingdom Picture",
             type: "new-games",
             id: 6,
@@ -169,7 +169,7 @@ const content =  {
         },
         {
             name: "Sons of the Forest",
-            imageUrl: "/mani/SOTF_buy.png",
+            imageUrl: "/Abschlusswebsite/SOTF_buy.png",
             alt: "Sons of the Forest Picture",
             type: "new-games",
             id: 7,
@@ -177,7 +177,7 @@ const content =  {
         },
         {
             name: "Hogwarts Legacy",
-            imageUrl: "/mani/Hog_Leg_buy.png",
+            imageUrl: "/Abschlusswebsite/Hog_Leg_buy.png",
             alt: "Hogwarts Legacy Picture",
             type: "new-games",
             id: 8,
@@ -188,83 +188,83 @@ const content =  {
     gallery: {
         images: [
             {
-                smallUrl: "/mani/Assasins_Creed.png",
-                url: "/mani/Assasins_Creed.png",
+                smallUrl: "/Abschlusswebsite/Assasins_Creed.png",
+                url: "/Abschlusswebsite/Assasins_Creed.png",
                 alt: "Assasins Creed Picture"
             },
             {
-                smallUrl: "/mani/Call_of_Duty.png",
-                url: "/mani/Call_of_Duty.png",
+                smallUrl: "/Abschlusswebsite/Call_of_Duty.png",
+                url: "/Abschlusswebsite/Call_of_Duty.png",
                 alt: "Call of Duty Picture"
             },
             {
-                smallUrl: "/mani/FIFA.png",
-                url: "/mani/FIFA.png",
+                smallUrl: "/Abschlusswebsite/FIFA.png",
+                url: "/Abschlusswebsite/FIFA.png",
                 alt: "FIFA Picture"
             },
             {
-                smallUrl: "/mani/GoatSimulator.png",
-                url: "/mani/GoatSimulator.png",
+                smallUrl: "/Abschlusswebsite/GoatSimulator.png",
+                url: "/Abschlusswebsite/GoatSimulator.png",
                 alt: "Goat Simulator Picture"
             },
             {
-                smallUrl: "/mani/God_of_War.png",
-                url: "/mani/God_of_War.png",
+                smallUrl: "/Abschlusswebsite/God_of_War.png",
+                url: "/Abschlusswebsite/God_of_War.png",
                 alt: "God of War Picture"
             },
             {
-                smallUrl: "/mani/Hitman.png",
-                url: "/mani/Hitman.png",
+                smallUrl: "/Abschlusswebsite/Hitman.png",
+                url: "/Abschlusswebsite/Hitman.png",
                 alt: "Hitman Picture"
             },
             {
-                smallUrl: "/mani/LuigisMansion.png",
-                url: "/mani/LuigisMansion.png",
+                smallUrl: "/Abschlusswebsite/LuigisMansion.png",
+                url: "/Abschlusswebsite/LuigisMansion.png",
                 alt: "Mario: Luigis Mansion Picture"
             },
             {
-                smallUrl: "/mani/Mario.png",
-                url: "/mani/Mario.png",
+                smallUrl: "/Abschlusswebsite/Mario.png",
+                url: "/Abschlusswebsite/Mario.png",
                 alt: "Mario 64 Picture"
             },
             {
-                smallUrl: "/mani/Mario_Kart.png",
-                url: "/mani/Mario_Kart.png",
+                smallUrl: "/Abschlusswebsite/Mario_Kart.png",
+                url: "/Abschlusswebsite/Mario_Kart.png",
                 alt: "Mario Kart Picture"
             },
             {
-                smallUrl: "/mani/Mario_odyssey.png",
-                url: "/mani/Mario_odyssey.png",
+                smallUrl: "/Abschlusswebsite/Mario_odyssey.png",
+                url: "/Abschlusswebsite/Mario_odyssey.png",
                 alt: "Mario Odyssey"
             },
             {
-                smallUrl: "/mani/Mario_pinguin.png",
-                url: "/mani/Mario_pinguin.png",
+                smallUrl: "/Abschlusswebsite/Mario_pinguin.png",
+                url: "/Abschlusswebsite/Mario_pinguin.png",
                 alt: "Mario and Pinguin Picture"
             },
             {
-                smallUrl: "/mani/Mario3d.png",
-                url: "/mani/Mario3d.png",
+                smallUrl: "/Abschlusswebsite/Mario3d.png",
+                url: "/Abschlusswebsite/Mario3d.png",
                 alt: "Mario 3d World Picture"
             },
             {
-                smallUrl: "/mani/Minecraft.png",
-                url: "/mani/Minecraft.png",
+                smallUrl: "/Abschlusswebsite/Minecraft.png",
+                url: "/Abschlusswebsite/Minecraft.png",
                 alt: "Minecraft Picture"
             },
             {
-                smallUrl: "/mani/Red_dead_redemption.png",
-                url: "/mani/Red_dead_redemption.png",
+                smallUrl: "/Abschlusswebsite/Red_dead_redemption.png",
+                url: "/Abschlusswebsite/Red_dead_redemption.png",
                 alt: "Red Dead Redemption Picture"
             },
             {
-                smallUrl: "/mani/Resident_evil.png",
-                url: "/mani/Resident_evil.png",
+                smallUrl: "/Abschlusswebsite/Resident_evil.png",
+                url: "/Abschlusswebsite/Resident_evil.png",
                 alt: "Resident Evil Picture"
             },
             {
-                smallUrl: "/mani/Sackboy.png",
-                url: "/mani/Sackboy.png",
+                smallUrl: "/Abschlusswebsite/Sackboy.png",
+                url: "/Abschlusswebsite/Sackboy.png",
                 alt: "Sackboy "
             },
 
