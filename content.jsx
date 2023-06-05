@@ -12,7 +12,7 @@ const content =  {
         ],
 
         navImg: {
-            url: "/logo.png",
+            url: "/mani/mani/logo.png",
             alt: "Bitte alt text hier"
         },
 
@@ -41,18 +41,18 @@ const content =  {
 
     slideshow: [
         {
-            url: "/minecraft_slideshow.png",
+            url: "/mani/minecraft_slideshow.png",
             text: "Minecraft",
             alt: "Minecraft Banner"
         },
         {
-            url: "/fortnite_slideshow.png",
+            url: "/mani/fortnite_slideshow.png",
             text: "Fortnite",
             alt: "Fortnite Banner"
         },
         {
             video: true,
-            url: "/GTA_6_Trailer.mp4",
+            url: "/mani/GTA_6_Trailer.mp4",
             text: "GTA 6",
             alt: "GTA 6 Video"
         },
@@ -121,7 +121,7 @@ const content =  {
     games: [
         {
             name: "Minecraft",
-            imageUrl: "/minecraft_buy.png",
+            imageUrl: "/mani/minecraft_buy.png",
             alt: "Minecraft Picture",
             type: "bestseller",
             id: 1,
@@ -129,7 +129,7 @@ const content =  {
         },
         {
             name: "Fortnite",
-            imageUrl: "/fortnite_buy.png",
+            imageUrl: "/mani/fortnite_buy.png",
             alt: "Fortnite Picture",
             type: "bestseller",
             id: 2,
@@ -137,7 +137,7 @@ const content =  {
         },
         {
             name: "GTA 5",
-            imageUrl: "/GTA_buy.png",
+            imageUrl: "/mani/GTA_buy.png",
             alt: "GTA 5 Picture",
             type: "bestseller",
             id: 3,
@@ -145,7 +145,7 @@ const content =  {
         },
         {
             name: "PUBG",
-            imageUrl: "/PUBG_buy.png",
+            imageUrl: "/mani/PUBG_buy.png",
             alt: "Alt Text Here",
             type: "bestseller",
             id: 4,
@@ -153,7 +153,7 @@ const content =  {
         },
         {
             name: "Diablo IV",
-            imageUrl: "/diablo_4_buy.png",
+            imageUrl: "/mani/diablo_4_buy.png",
             alt: "Diablo IV Picture",
             type: "new-games",
             id: 5,
@@ -161,7 +161,7 @@ const content =  {
         },
         {
             name: "The Legend of Zelda: Tears of the Kingdom",
-            imageUrl: "/TLOZ_TOTK_buy.png",
+            imageUrl: "/mani/TLOZ_TOTK_buy.png",
             alt: "The Legend of Zelda: Tears of the Kingdom Picture",
             type: "new-games",
             id: 6,
@@ -169,7 +169,7 @@ const content =  {
         },
         {
             name: "Sons of the Forest",
-            imageUrl: "/SOTF_buy.png",
+            imageUrl: "/mani/SOTF_buy.png",
             alt: "Sons of the Forest Picture",
             type: "new-games",
             id: 7,
@@ -177,7 +177,7 @@ const content =  {
         },
         {
             name: "Hogwarts Legacy",
-            imageUrl: "/Hog_Leg_buy.png",
+            imageUrl: "/mani/Hog_Leg_buy.png",
             alt: "Hogwarts Legacy Picture",
             type: "new-games",
             id: 8,
@@ -188,83 +188,83 @@ const content =  {
     gallery: {
         images: [
             {
-                smallUrl: "/Assasins_Creed.png",
-                url: "/Assasins_Creed.png",
+                smallUrl: "/mani/Assasins_Creed.png",
+                url: "/mani/Assasins_Creed.png",
                 alt: "Assasins Creed Picture"
             },
             {
-                smallUrl: "/Call_of_Duty.png",
-                url: "/Call_of_Duty.png",
+                smallUrl: "/mani/Call_of_Duty.png",
+                url: "/mani/Call_of_Duty.png",
                 alt: "Call of Duty Picture"
             },
             {
-                smallUrl: "/FIFA.png",
-                url: "/FIFA.png",
+                smallUrl: "/mani/FIFA.png",
+                url: "/mani/FIFA.png",
                 alt: "FIFA Picture"
             },
             {
-                smallUrl: "/GoatSimulator.png",
-                url: "/GoatSimulator.png",
+                smallUrl: "/mani/GoatSimulator.png",
+                url: "/mani/GoatSimulator.png",
                 alt: "Goat Simulator Picture"
             },
             {
-                smallUrl: "/God_of_War.png",
-                url: "/God_of_War.png",
+                smallUrl: "/mani/God_of_War.png",
+                url: "/mani/God_of_War.png",
                 alt: "God of War Picture"
             },
             {
-                smallUrl: "/Hitman.png",
-                url: "/Hitman.png",
+                smallUrl: "/mani/Hitman.png",
+                url: "/mani/Hitman.png",
                 alt: "Hitman Picture"
             },
             {
-                smallUrl: "/LuigisMansion.png",
-                url: "/LuigisMansion.png",
+                smallUrl: "/mani/LuigisMansion.png",
+                url: "/mani/LuigisMansion.png",
                 alt: "Mario: Luigis Mansion Picture"
             },
             {
-                smallUrl: "/Mario.png",
-                url: "/Mario.png",
+                smallUrl: "/mani/Mario.png",
+                url: "/mani/Mario.png",
                 alt: "Mario 64 Picture"
             },
             {
-                smallUrl: "/Mario_Kart.png",
-                url: "/Mario_Kart.png",
+                smallUrl: "/mani/Mario_Kart.png",
+                url: "/mani/Mario_Kart.png",
                 alt: "Mario Kart Picture"
             },
             {
-                smallUrl: "/Mario_odyssey.png",
-                url: "/Mario_odyssey.png",
+                smallUrl: "/mani/Mario_odyssey.png",
+                url: "/mani/Mario_odyssey.png",
                 alt: "Mario Odyssey"
             },
             {
-                smallUrl: "/Mario_pinguin.png",
-                url: "/Mario_pinguin.png",
+                smallUrl: "/mani/Mario_pinguin.png",
+                url: "/mani/Mario_pinguin.png",
                 alt: "Mario and Pinguin Picture"
             },
             {
-                smallUrl: "/Mario3d.png",
-                url: "/Mario3d.png",
+                smallUrl: "/mani/Mario3d.png",
+                url: "/mani/Mario3d.png",
                 alt: "Mario 3d World Picture"
             },
             {
-                smallUrl: "/Minecraft.png",
-                url: "/Minecraft.png",
+                smallUrl: "/mani/Minecraft.png",
+                url: "/mani/Minecraft.png",
                 alt: "Minecraft Picture"
             },
             {
-                smallUrl: "/Red_dead_redemption.png",
-                url: "/Red_dead_redemption.png",
+                smallUrl: "/mani/Red_dead_redemption.png",
+                url: "/mani/Red_dead_redemption.png",
                 alt: "Red Dead Redemption Picture"
             },
             {
-                smallUrl: "/Resident_evil.png",
-                url: "/Resident_evil.png",
+                smallUrl: "/mani/Resident_evil.png",
+                url: "/mani/Resident_evil.png",
                 alt: "Resident Evil Picture"
             },
             {
-                smallUrl: "/Sackboy.png",
-                url: "/Sackboy.png",
+                smallUrl: "/mani/Sackboy.png",
+                url: "/mani/Sackboy.png",
                 alt: "Sackboy "
             },
 
