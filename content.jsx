@@ -12,7 +12,7 @@ const content =  {
         ],
 
         navImg: {
-            url: "/Abschlusswebsite/logo.png",
+            url: "/logo.png",
             alt: "Bitte alt text hier"
         },
 
@@ -188,83 +188,83 @@ const content =  {
     gallery: {
         images: [
             {
-                smallUrl: "/Assasins_Creed.png",
-                url: "/Assasins_Creed.png",
+                smallUrl: "/Assasins_Creed_big.png",
+                url: "/Assasins_Creed_small.png",
                 alt: "Assasins Creed Picture"
             },
             {
-                smallUrl: "/Call_of_Duty.png",
-                url: "/Call_of_Duty.png",
+                smallUrl: "/Call_of_Duty_big.png",
+                url: "/Call_of_Duty_small.png",
                 alt: "Call of Duty Picture"
             },
             {
-                smallUrl: "/FIFA.png",
-                url: "/FIFA.png",
+                smallUrl: "/gFIFA_big.png",
+                url: "/FIFA_small.png",
                 alt: "FIFA Picture"
             },
             {
-                smallUrl: "/GoatSimulator.png",
-                url: "/GoatSimulator.png",
+                smallUrl: "/GoatSimulator_big.png",
+                url: "/GoatSimulator_small.png",
                 alt: "Goat Simulator Picture"
             },
             {
-                smallUrl: "/God_of_War.png",
-                url: "/God_of_War.png",
+                smallUrl: "/God_of_War_big.png",
+                url: "/God_of_War_small.png",
                 alt: "God of War Picture"
             },
             {
-                smallUrl: "/Hitman.png",
-                url: "/Hitman.png",
+                smallUrl: "/Hitman_big.png",
+                url: "/Hitman_small.png",
                 alt: "Hitman Picture"
             },
             {
-                smallUrl: "/LuigisMansion.png",
-                url: "/LuigisMansion.png",
+                smallUrl: "/LuigisMansion_big.png",
+                url: "/LuigisMansion_small.png",
                 alt: "Mario: Luigis Mansion Picture"
             },
             {
-                smallUrl: "/Mario.png",
-                url: "/Mario.png",
+                smallUrl: "/Mario_big.png",
+                url: "/Mario_small.png",
                 alt: "Mario 64 Picture"
             },
             {
-                smallUrl: "/Mario_Kart.png",
-                url: "/Mario_Kart.png",
+                smallUrl: "/Mario_Kart_big.png",
+                url: "/Mario_Kart_small.png",
                 alt: "Mario Kart Picture"
             },
             {
-                smallUrl: "/Mario_odyssey.png",
-                url: "/Mario_odyssey.png",
+                smallUrl: "/Mario_odyssey_big.png",
+                url: "/Mario_odyssey_small.png",
                 alt: "Mario Odyssey"
             },
             {
-                smallUrl: "/Mario_pinguin.png",
-                url: "/Mario_pinguin.png",
+                smallUrl: "/Mario_pinguin_big.png",
+                url: "/Mario_pinguin_small.png",
                 alt: "Mario and Pinguin Picture"
             },
             {
-                smallUrl: "/Mario3d.png",
-                url: "/Mario3d.png",
+                smallUrl: "/Mario3d_big.png",
+                url: "/Mario3d_small.png",
                 alt: "Mario 3d World Picture"
             },
             {
-                smallUrl: "/Minecraft.png",
-                url: "/Minecraft.png",
+                smallUrl: "/Minecraft_big.png",
+                url: "/Minecraft_small.png",
                 alt: "Minecraft Picture"
             },
             {
-                smallUrl: "/Red_dead_redemption.png",
-                url: "/Red_dead_redemption.png",
+                smallUrl: "/Red_dead_redemption_big.png",
+                url: "/Red_dead_redemption_small.png",
                 alt: "Red Dead Redemption Picture"
             },
             {
-                smallUrl: "/Resident_evil.png",
-                url: "/Resident_evil.png",
+                smallUrl: "/Resident_evil_big.png",
+                url: "/Resident_evil_small.png",
                 alt: "Resident Evil Picture"
             },
             {
-                smallUrl: "/Sackboy.png",
-                url: "/Sackboy.png",
+                smallUrl: "/Sackboy_big.png",
+                url: "/Sackboy_small.png",
                 alt: "Sackboy "
             },
 
