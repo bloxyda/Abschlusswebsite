@@ -13,7 +13,7 @@ const content =  {
 
         navImg: {
             url: "/logo.png",
-            alt: "Bitte alt text hier"
+            alt: "Logo"
         },
 
         shoppingCart: {
